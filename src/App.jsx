@@ -1,9 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 import { HashRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Home from './components/Home';
 import Projects from './components/Projects';
 import About from './components/About';
 import Contact from './components/Contact';
+import ProjectDetail from './components/ProjectDetail';
 
 function App() {
   return (
@@ -35,6 +37,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/projects/:id" element={<ProjectDetail />} />
         </Routes>
       </div>
     </Router>
