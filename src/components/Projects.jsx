@@ -5,17 +5,17 @@ function Projects() {
     {
       title: "Project One",
       description: "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      imageUrl: "/images/project1.svg"
+      imageUrl: "/portfolio_site/images/project1.svg"
     },
     {
       title: "Project Two",
       description: "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      imageUrl: "/images/project2.svg"
+      imageUrl: "/portfolio_site/images/project2.svg"
     },
     {
       title: "Project Three",
       description: "This is a longer card with supporting text below as a natural lead-in to additional content.",
-      imageUrl: "/images/project3.svg"
+      imageUrl: "/portfolio_site/images/project3.svg"
     }
   ];
 

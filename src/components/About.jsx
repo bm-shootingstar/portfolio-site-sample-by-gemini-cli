@@ -6,7 +6,7 @@ function About() {
       <h1>About Me</h1>
       <div className="row">
         <div className="col-md-4">
-          <img src="/images/profile.svg" className="img-fluid rounded-circle" alt="Your Name" />
+          <img src="/portfolio_site/images/profile.svg" className="img-fluid rounded-circle" alt="Your Name" />
         </div>
         <div className="col-md-8">
           <h2>Hello, I'm [Your Name]</h2>
