@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sakik-s.github.io/portfolio_site",
+  "homepage": "https://bm-shootingstar.github.io/portfolio-site-sample-by-gemini-cli",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
